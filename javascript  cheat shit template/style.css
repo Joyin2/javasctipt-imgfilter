@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    /* position: absolute; */
+    /* width: 100px; */
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    margin: auto;
+}
+.logo img{
+    position: relative;
+    width: 100px;
+}
